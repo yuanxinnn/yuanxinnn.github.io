@@ -6,7 +6,7 @@ permalink: /publication/paper-DeTransformer
 # excerpt: 'Adopting the concept of co-deign, we propose block parallelism through model structure decoupling, incorporated with a model adaptive execution method that dynamically balances the computing power, communication power, and memory capacity of devices.'
 # date: 2023-11-
 # venue: 'Valencia, Spain'
-conference: 'Automation & Test in Europe (DATE) 2024'
+conference: 'Automation & Test in Europe (DATE), 2024, CCF-B'
 slidesurl: 'http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10546617'
 author: 'Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang*, Jiangsu Du*, Yutong Lu'
