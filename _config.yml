@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US" #"zh-CN"
-title                    : "Yuanxin(媛馨) Wei(韦) / HomePage"
+title                    : "Yuanxin Wei(韦媛馨) / HomePage"
 title_separator          : "-"
 name                     : &name "Yuanxin Wei"
 description              : &description "a tiny PH.D. student"

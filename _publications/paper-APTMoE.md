@@ -6,8 +6,9 @@ permalink: /publication/paper-APTMoE
 # excerpt: 'Propose a hierarchical loading strategy for computing affinity awareness by strategically offloading a portion of experts to CPU for computation'
 # date: 2024-06
 # venue: 'Atlanta, U.S.'
+conference: 'International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024'
 paperurl: 'http://yuanxinnn.github.io/files/APTMoE_paper.pdf'
-citation: 'Yuanxin Wei, Jiangsu Du*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang, Nong Xiao, Yutong Lu*, in International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024, CCF-A'
+author: 'Yuanxin Wei, Jiangsu Du*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang, Nong Xiao, Yutong Lu*'
 ---
 
 
