@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a 2rd-year Ph.D. student majoring in computer science at [National Supercomputing Center in Guangzhou (NSCC)](http://nscc-gz.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am fortunate to be advised by [Prof. Nong Xiao](https://cse.sysu.edu.cn/content/2484) and [Jiangsu Du](https://dujiangsu.github.io/). Prior to that, I received my B.E. degree from the School of Computer Science and Engineering, Sun Yat-sen University.
+I’m a 2rd-year Ph.D. student majoring in computer science at [National Supercomputing Center in Guangzhou (NSCC)](http://nscc-gz.cn/), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am advised by [Prof. Nong Xiao](https://cse.sysu.edu.cn/content/2484). Prior to that, I received my B.E. degree from the School of Computer Science and Engineering, Sun Yat-sen University.
 
 My research interest includes Machine Learning System and High Performance Computing. 
 
