@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US" #"zh-CN"
 title                    : "Yuanxin(媛馨) Wei(韦) / HomePage"
 title_separator          : "-"
 name                     : &name "Yuanxin Wei"
@@ -21,10 +21,10 @@ repository               : "yuanxinnn/yuanxinnn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/photo.png"
+  avatar           : "photo.png"
   name             : "Yuanxin Wei"
   pronouns         : # example: "she/her"  
-  bio              : "Trusting The Road Ahead, Wherever It May Lead"
+  bio              : "Trusting The Road Ahead, Wherever It May Lead 🌻"
   location         : "Guangzhou, China"
   employer         : "Sun Yat-sun University"
   uri              : # URL
