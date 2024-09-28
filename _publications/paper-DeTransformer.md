@@ -3,12 +3,12 @@ title: "Communication-Efficient Model Parallelism for Distributed In-Situ Transf
 collection: publications
 category: conferences
 permalink: /publication/paper-DeTransformer
-excerpt: 'Adopting the concept of co-deign, we propose block parallelism through model structure decoupling, incorporated with a model adaptive execution method that dynamically balances the computing power, communication power, and memory capacity of devices.'
+# excerpt: 'Adopting the concept of co-deign, we propose block parallelism through model structure decoupling, incorporated with a model adaptive execution method that dynamically balances the computing power, communication power, and memory capacity of devices.'
 # date: 2023-11
-venue: 'Valencia, Spain'
+# venue: 'Valencia, Spain'
 slidesurl: 'http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10546617'
-citation: 'Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang*, Jiangsu Du*, Yutong Lu, Communication-Efficient Model Parallelism for Distributed In-Situ Transformer Inference, in Design, Automation & Test in Europe (DATE), 2024'
+citation: 'Yuanxin Wei, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang*, Jiangsu Du*, Yutong Lu, Automation & Test in Europe (DATE), 2024, CCF-B'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper, we propose DeTransformer, a communication-efficient distributed in-situ Transformer inference system for edge scenarios. DeTransformer is based on a novel block parallelism approach, with the key idea of restructuring the original Transformer layer with a single block to the decoupled layer with multiple sub-blocks and exploit model parallelism between sub-blocks. Next, DeTransformer contains an adaptive placement approach to automatically select the optimal placement strategy by striking a trade-off among communication capability, computing power and memory budget.
