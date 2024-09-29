@@ -13,21 +13,15 @@ Hi! I’m a 2nd-year Ph.D. student majoring in computer science in the [School o
 You can find my cv here: [Yuanxin Wei's Curriculum Vitae](../files/cv_yuanxin.pdf) 
 
 
-## Research Interest
+## 💻 Research Interest
 My research interest focuses on Machine Learning System and High Performance Computing, including: 
 
 - Algorithm-System Co-Design.
 - Cost-Efficient LLM systems.
 - Accelerating ML workloads.
 
-## Publications
 
-- **Yuanxin Wei**, Jiangsu Du\*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang\*, Nong Xiao, Yutong Lu. [*APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes*](http://yuanxinnn.github.io/files/APTMoE_paper.pdf). **SC 2024** (22.7%).
-
-- **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Jiangsu Du\*, Yutong Lu. [*Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference*](https://ieeexplore.ieee.org/abstract/document/10546617). **DATE 2024** (25%), [[slide](http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf)].
-
-
-## News 
+## 🌟 News 
 - [08/07/24] Start working as a research intern at Alibaba Cloud PAI Group. Back to Beijing again!
 - [15/06/24] One paper accepted by [SC 2024](https://sc24.supercomputing.org/)!
 - [25/03/24] Attend the DATE 2024 conference in Valencia, Spain and give an oral presentation.
@@ -37,3 +31,21 @@ My research interest focuses on Machine Learning System and High Performance Com
 - [30/05/24] Start my first intership as a technical support in Lark, ByteDance, Shenzhen.
 - [01/09/24] Start my college life at [Sun Yat-sen University](https://www.sysu.edu.cn/) in Guangzhou.
 - [30/06/19] Finish three years of high school life in Beijing.
+
+
+## 📄 Publications
+
+- **Yuanxin Wei**, Jiangsu Du\*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang\*, Nong Xiao, Yutong Lu. [*APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes*](http://yuanxinnn.github.io/files/APTMoE_paper.pdf). **SC 2024** (22.7%).
+
+- **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Jiangsu Du\*, Yutong Lu. [*Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference*](https://ieeexplore.ieee.org/abstract/document/10546617). **DATE 2024** (25%), [[slide](http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf)].
+
+
+## 🏆 Awards
+
+
+- Chinese National Scholarship (Top 1%), 2021
+- Principal scholarship of Sun Yat-sen University (Top 5%), 2023
+- Outstanding Undergraduate Graduates of Sun Yat-sen University, 2023
+- Outstanding undergraduate thesis, 2023
+- First-Prize Scholarship of Sun Yat-sen University (Top 5%), 2021
+- Second-Prize Scholarship of Sun Yat-sen University × 2 (Top 10%), 2020, 2022
