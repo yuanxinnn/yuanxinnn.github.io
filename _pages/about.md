@@ -14,7 +14,7 @@ You can find my cv here: [Yuanxin Wei's Curriculum Vitae](../files/cv_yuanxin.pd
 
 
 ### Research Interest
-My research interest focus on Machine Learning System and High Performance Computing, including: 
+My research interest focuses on Machine Learning System and High Performance Computing, including: 
 
 - Algorithm-System Co-Design.
 - Cost-Efficient LLM systems.
@@ -24,11 +24,11 @@ My research interest focus on Machine Learning System and High Performance Compu
 
 - [APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes](http://yuanxinnn.github.io/files/APTMoE_paper.pdf), **SC 2024**
     
-    **Yuanxin Wei**, Jiangsu Du*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang, Nong Xiao, Yutong Lu*
+    **Yuanxin Wei**, Jiangsu Du\*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang\*, Nong Xiao, Yutong Lu
 
 - [Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference](https://ieeexplore.ieee.org/abstract/document/10546617), **DATE 2024**, [[slide](http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf)]
 
-    **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang*, Jiangsu Du*, Yutong Lu
+    **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Jiangsu Du\*, Yutong Lu
 
 ### News 
 2024-07 Start working as a research intern at Alibaba Cloud PAI Group. Back to Beijing again!
@@ -43,7 +43,7 @@ My research interest focus on Machine Learning System and High Performance Compu
 
 2023-06 Got my Bachelor degree! My wonderful four years.
 
-2022-05 Start my first intership as a technical support in Lark, ByteDance. Live months in Shenzhen.
+2022-05 Start my first intership as a technical support in Lark, ByteDance, Shenzhen.
 
 2019-09 Start my college life at [Sun Yat-sen University](https://www.sysu.edu.cn/) in Guangzhou.
 
