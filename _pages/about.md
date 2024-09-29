@@ -31,20 +31,12 @@ My research interest focuses on Machine Learning System and High Performance Com
     **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Jiangsu Du\*, Yutong Lu
 
 ### News 
-2024-07 Start working as a research intern at Alibaba Cloud PAI Group. Back to Beijing again!
-
-2024-06 One paper accepted by [SC 2024](https://sc24.supercomputing.org/)!
-
-2024-03 Attend the DATE 2024 conference in Valencia, Spain and give an oral presentation.
-
-2023-11 First paper accepted by [DATE 2024](https://date24.date-conference.com/)! Many many thanks to Advisor [Jiangsu Du](https://dujiangsu.github.io/).
-
-2023-09 Start my PH.D. journey!
-
-2023-06 Got my Bachelor degree! My wonderful four years.
-
-2022-05 Start my first intership as a technical support in Lark, ByteDance, Shenzhen.
-
-2019-09 Start my college life at [Sun Yat-sen University](https://www.sysu.edu.cn/) in Guangzhou.
-
-2019-06 Finish three years of high school life in Beijing.
+- [08/07/24] Start working as a research intern at Alibaba Cloud PAI Group. Back to Beijing again!
+- [15/06/24] One paper accepted by [SC 2024](https://sc24.supercomputing.org/)!
+- [25/03/24] Attend the DATE 2024 conference in Valencia, Spain and give an oral presentation.
+- [12/11//24] First paper accepted by [DATE 2024](https://date24.date-conference.com/)! Many many thanks to Advisor [Jiangsu Du](https://dujiangsu.github.io/).
+- [01/09/24] Start my PH.D. journey!
+- [30/06/24] Got my Bachelor degree! My wonderful four years.
+- [30/05/24] Start my first intership as a technical support in Lark, ByteDance, Shenzhen.
+- [01/09/24] Start my college life at [Sun Yat-sen University](https://www.sysu.edu.cn/) in Guangzhou.
+- [30/06/19] Finish three years of high school life in Beijing.
