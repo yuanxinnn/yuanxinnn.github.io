@@ -37,7 +37,7 @@ My research interest focuses on Machine Learning System and High Performance Com
 
 2024-03 Attend the DATE 2024 conference in Valencia, Spain and give an oral presentation.
 
-2023-11 First paper accepted by [DATE 2024](https://date24.date-conference.com/)! Many many thanks to [Jiangsu Du](https://dujiangsu.github.io/).
+2023-11 First paper accepted by [DATE 2024](https://date24.date-conference.com/)! Many many thanks to Advisor [Jiangsu Du](https://dujiangsu.github.io/).
 
 2023-09 Start my PH.D. journey!
 
