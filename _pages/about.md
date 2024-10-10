@@ -37,7 +37,7 @@ My research interest focuses on Machine Learning System and High Performance Com
 
 - **Yuanxin Wei**, Jiangsu Du\*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang\*, Nong Xiao, Yutong Lu. [*APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes*](http://yuanxinnn.github.io/files/APTMoE_paper.pdf). **SC 2024** (22.7%).
 
-- **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Jiangsu Du\*, Yutong Lu. [*Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference*](https://ieeexplore.ieee.org/abstract/document/10546617). **DATE 2024** (25%), [[slide](http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf)].
+- **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Jiangsu Du\*, Yutong Lu. [*Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference*](https://ieeexplore.ieee.org/abstract/document/10546617). **DATE 2024** (25%), [[slide](http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf)][[code](https://github.com/yuanxinnn/DeTransformer)].
 
 
 ## 🏆 Awards
