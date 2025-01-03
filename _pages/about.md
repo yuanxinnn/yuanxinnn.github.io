@@ -35,9 +35,15 @@ My research interest focuses on Machine Learning System and High Performance Com
 
 ## 📄 Publications
 
-- **Yuanxin Wei**, Jiangsu Du\*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang\*, Nong Xiao, Yutong Lu. [*APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes*](http://yuanxinnn.github.io/files/APTMoE_paper.pdf). **SC 2024** (22.7%).
+- **Yuanxin Wei**, Jiangsu Du\*, Jiazhi Jiang, Xiao Shi, Xianwei Zhang, Dan Huang\*, Nong Xiao, Yutong Lu. [*APTMoE: Affinity-aware Pipeline Tuning for MoE Models on Bandwidth-constrained GPU Nodes*](https://dl.acm.org/doi/10.1109/SC41406.2024.00096). **SC 2024** (22.7%), [[slide](http://yuanxinnn.github.io/files/sc24_Presenter_Slide_APTMoE.pdf)].
 
 - **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Jiangsu Du\*, Yutong Lu. [*Communication-Efficient Model Parallelism for Distributed In-situ Transformer Inference*](https://ieeexplore.ieee.org/abstract/document/10546617). **DATE 2024** (25%), [[slide](http://yuanxinnn.github.io/files/DeTransformer_slide_DATE2024.pdf)][[code](https://github.com/yuanxinnn/DeTransformer)].
+
+- Jiangsu Du, **Yuanxin Wei**, Shengyuan Ye, Jiazhi Jiang, Xu Chen, Dan Huang\*, Yutong Lu. [*Co-designing Transformer Architectures for Distributed Inference with Low Communication*](https://ieeexplore.ieee.org/document/10812976). **TPDS 2024**.
+
+- Yu Li, **Yuanxin Wei**, Jiangsu Du\*, Dan Huang\*. *Understanding the Inference Performance of Spatial Temporal Diffusion Transformer*. **NPC 2024**.
+
+
 
 
 ## 🏆 Awards
